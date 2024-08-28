@@ -1,7 +1,7 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+The goal of this project is to show visual trend of housing prices across Canada and the difference between those prices between different house or apartment units.
 
 ## Process
 ### (your step 1)
