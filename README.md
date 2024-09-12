@@ -8,7 +8,7 @@ The goal of this project is to show visual trend of housing prices across Canada
 ### I created multiple treadlines of different housing categories with a consumer index and created a regression line between multiple values to see if there's any correlation between consumer index and housing price over 10 years.
 ### I also created a heatmap of average housing prices in all provinces in Canada. It looks like the average data was skewed by multiple values that were either 0 or close to that.
 ## Results
-You can find the file for this projects dashboard [Here](/TableauProject)
+You can find the file for this projects dashboard [Here](/TableauProject.twbx)
 ![](Dashboard.png)
 We can observe that there is a correlation between consumer and housing index and how all plotlines were affected by 2008 housing market crash and the P-value of the regression line was close to 0 that indicates that these plotlines correlate with each other.
 
